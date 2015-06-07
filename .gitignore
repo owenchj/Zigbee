@@ -1,0 +1,15 @@
+*.[oa]
+*~
+*.swp
+.*.d
+.*.dep
+*.vcd
+core
+transcript
+*.wlf
+work
+*.x
+*.elf
+*#*
+.DS_Store
+.nfs*
